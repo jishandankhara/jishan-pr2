@@ -7,7 +7,7 @@ float amount,total-amount,surcharge;
 clrscr();
 printf("_______________________\n");
 printf("---------bill----------\n");
-printf("***********%.2f",total-amount************\n");
+printf("***********************\n");
 printf("enter electricity units:");
 scanf("%f",&unit);
 
